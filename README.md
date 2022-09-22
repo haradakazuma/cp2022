@@ -5,6 +5,7 @@ This is README.
 - item2
 
 ## Part2
-- monday
-- tuesday
-- wednesday
+1. sunday
+1. monday
+1. tuesday
+1. wednesday
